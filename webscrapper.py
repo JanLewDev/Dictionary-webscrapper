@@ -38,7 +38,7 @@ def spr_pelne(slowo):
     elif "nie występuje w słowniku" in definicja[0] or "niedopuszczalne w grach " in definicja[0]:
         print("To slowo jest nieprawidlowe 2")
     else:
-        print("Chyba cos nie dziala xDDD")
+        print("Chyba cos nie dziala")
 
     # print(definicja[0])
 
